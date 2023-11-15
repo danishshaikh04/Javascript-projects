@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("./macbook.jpg");
+    background-size:contain;
+    min-height: 120vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "poppins", sans-serif ;
+    color: rgb(247, 247, 247);
+    margin: 0;
+}
+ h1{
+     color: rgb(226, 226, 226);
+     font-size: 3rem;
+     font-weight: normal;
+     
+ 
+ }
+.countdown-container{
+    display: flex;
+    
+
+}
+.big-text{
+    font-weight: bold;
+    font-size: xx-large;
+    line-height: 1;
+    margin: 0 2rem;
+}
+.countdown-el {
+    text-align: center;
+    text-transform: uppercase;
+    
+
+}
+.countdown-el span{
+    font: size 2rem;;
+
+}
