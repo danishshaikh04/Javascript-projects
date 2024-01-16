@@ -35,8 +35,8 @@ CSS
 **How to Use:**
 Clone the repository to your local machine:
 
+https://github.com/danishshaikh04/Javascript-projects.git
 
-git clone https://github.com/danishshaikh04/javascript projects.git](https://github.com/danishshaikh04/Javascript-projects.git
 Open the individual project folders and explore the code.
 
 Launch the HTML files in a web browser to interact with each project.
