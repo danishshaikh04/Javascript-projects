@@ -36,7 +36,7 @@ CSS
 Clone the repository to your local machine:
 
 
-git clone https://github.com/danishshaikh04/js-basic-projects.git
+git clone https://github.com/danishshaikh04/javascript projects.git
 Open the individual project folders and explore the code.
 
 Launch the HTML files in a web browser to interact with each project.
