@@ -41,4 +41,4 @@ Open the individual project folders and explore the code.
 
 Launch the HTML files in a web browser to interact with each project.
 
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
+Feel free to contribute.
